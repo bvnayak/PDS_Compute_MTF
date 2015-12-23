@@ -23,5 +23,5 @@ Generated Plots:
 
 Note
 ----
-* Initial commits have some issues where it raises error. It will get fixed soon.
+* Initial commits have some issues where it raises error for some ROIs. It will get fixed soon.
 
