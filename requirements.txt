@@ -1,7 +1,5 @@
 cycler==0.9.0
 decorator==4.0.4
-ipython==4.0.0
-ipython-genutils==0.1.0
 matplotlib==1.5.0
 numpy==1.10.1
 path.py==8.1.2
